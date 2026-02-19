@@ -2,6 +2,7 @@ import java.sql.*;
 import java.util.*;
 
 //To have dynamic values
+//Have used Prepared Statement
 public class Demo {
     public static void main(String[] args) throws SQLException {
 
